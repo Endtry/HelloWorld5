@@ -34,7 +34,7 @@ git branch
 // Add files/folder to be committed to github
 git add . OR git add -A
 
-// Commit code and add message
+// Commit code and add a message
 git commit -m "the commit message"
 
 // Rename a folder or file
