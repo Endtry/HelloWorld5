@@ -30,3 +30,12 @@ git status
 
 // Output a list of local branches
 git branch
+
+// Add files/folder to be committed to github
+git add . OR git add -A
+
+// Commit code and add message
+git commit -m "the commit message"
+
+// Rename a folder or file
+mv <folder-or-filename>
